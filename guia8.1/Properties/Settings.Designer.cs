@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Guia8.Properties
+namespace guia8._1.Properties
 {
 
 
